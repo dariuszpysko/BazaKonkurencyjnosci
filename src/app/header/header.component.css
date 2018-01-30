@@ -1,0 +1,19 @@
+#logo-lf{
+    max-width: 400px;
+    max-height: 99px;
+    width: 100%;
+    height: auto;
+}
+.bg-blue{
+    background-color: #1257b8;
+}
+
+.sub-header2{
+    color: #ffffff;
+    margin-top: 1rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-bottom: 1rem;
+    text-align: left;
+
+}
